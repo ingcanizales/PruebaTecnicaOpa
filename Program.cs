@@ -76,10 +76,10 @@ namespace PruebaTecnicaOpa
             }
 
 
-            if (_listaElementos != null)
+            if (consulta != null)
             {
 
-                //Se realiza la suma de los valores
+                //Se Muestra la información en consola.
 
                 if (sumCaloria < caloria)
                 {
